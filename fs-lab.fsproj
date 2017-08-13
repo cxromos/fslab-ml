@@ -77,8 +77,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="WorldBankData.fs" />
-    <Compile Include="Develop.fs" />
+    <Compile Include="Modules\knn.fs" />
+    <Compile Include="Modules\linearregression.fs" />
+    <Compile Include="Modules\worldbankdata.fs" />
+    <Compile Include="wrun.fs" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
