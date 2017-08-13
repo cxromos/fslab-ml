@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f919d6fc-6fd9-4dd0-9b65-41c9178db7a7" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Develop.fs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Develop.fs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="46" column="83" lean-forward="false" selection-start-line="46" selection-start-column="83" selection-end-line="46" selection-end-column="83" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/57E7C4AE-976D-69A2-A745-0383AEC4E757/1d/11b6b9e6/Chart.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Develop.fs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FFB99659-FC1C-47FA-A4D5-F883014D08AA/fb/fd529bad/Math.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Tutorial.fsx" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/57E7C4AE-976D-69A2-A745-0383AEC4E757/1d/11b6b9e6/Chart.cs" />
+        <option value="$PROJECT_DIR$/Tutorial.fsx" />
+        <option value="$PROJECT_DIR$/Develop.fs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="4" />
+    <option name="y" value="23" />
+    <option name="width" value="1436" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FsLab.Templates-basic (1 project)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FsLab.Tutorial" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FsLab.Templates-basic (1 project)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FsLab.Tutorial" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="References" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/FsLab.Tutorial.fsproj" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/bin/Debug/FsLab.Tutorial.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f919d6fc-6fd9-4dd0-9b65-41c9178db7a7" name="Default" comment="" />
+      <created>1502576995342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1502576995342</updated>
+      <workItem from="1502576998016" duration="195000" />
+      <workItem from="1502577276659" duration="575000" />
+      <workItem from="1502577931022" duration="2077000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2847000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="4" y="23" width="1436" height="877" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32920793" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32920793" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Develop.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorial.fsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/57E7C4AE-976D-69A2-A745-0383AEC4E757/1d/11b6b9e6/Chart.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="72" column="41" lean-forward="false" selection-start-line="72" selection-start-column="30" selection-end-line="72" selection-end-column="41" />
+          <folding>
+            <marker date="1502578609000" expanded="true" signature="0:350" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1502578609000" expanded="false" signature="358:524" ph="..." />
+            <marker date="1502578609000" expanded="true" signature="554:41266" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="650:41264" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="769:801" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="976:1043" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="1223:1282" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="1288:1422" ph="///  Sets the data series label. Use this member if the ... " />
+            <marker date="1502578609000" expanded="true" signature="1545:1607" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="1613:1752" ph="///  Sets the data series labels. Use this member if the ... " />
+            <marker date="1502578609000" expanded="true" signature="1890:1954" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="2131:2196" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="2406:2469" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="2652:2807" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="2982:3081" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="3253:3318" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="3502:3566" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="3750:3814" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="4112:4317" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="4577:5179" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="5185:5420" ph="///Creates an annotation chart. ... " />
+            <marker date="1502578609000" expanded="true" signature="5666:6369" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="6375:6610" ph="///Creates an annotation chart. ... " />
+            <marker date="1502578609000" expanded="true" signature="6884:7125" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="7131:7360" ph="///Creates an area chart. ... " />
+            <marker date="1502578609000" expanded="true" signature="7567:7663" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="7669:7898" ph="///Creates an area chart. ... " />
+            <marker date="1502578609000" expanded="true" signature="8141:8639" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="8645:8874" ph="///Creates an area chart. ... " />
+            <marker date="1502578609000" expanded="true" signature="9145:9331" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="9337:9564" ph="///Creates a bar chart. ... " />
+            <marker date="1502578609000" expanded="true" signature="9770:9865" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="9871:10098" ph="///Creates a bar chart. ... " />
+            <marker date="1502578609000" expanded="true" signature="10340:10834" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="10840:11067" ph="///Creates a bar chart. ... " />
+            <marker date="1502578609000" expanded="true" signature="11337:11521" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="11527:11757" ph="///Creates a bubble chart. ... " />
+            <marker date="1502578609000" expanded="true" signature="12010:12580" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="12586:12816" ph="///Creates a bubble chart. ... " />
+            <marker date="1502578609000" expanded="true" signature="13098:13702" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="13708:13938" ph="///Creates a bubble chart. ... " />
+            <marker date="1502578609000" expanded="true" signature="14249:14880" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="14886:15118" ph="///Creates a calendar chart. ... " />
+            <marker date="1502578609000" expanded="true" signature="15346:15913" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="15919:16154" ph="///Creates a candlestick chart. ... " />
+            <marker date="1502578609000" expanded="true" signature="16491:17098" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="17104:17339" ph="///Creates a candlestick chart. ... " />
+            <marker date="1502578609000" expanded="true" signature="17626:17844" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="17850:18080" ph="///Creates a column chart. ... " />
+            <marker date="1502578609000" expanded="true" signature="18289:18387" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="18393:18623" ph="///Creates a column chart. ... " />
+            <marker date="1502578609000" expanded="true" signature="18868:19374" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="19380:19610" ph="///Creates a column chart. ... " />
+            <marker date="1502578609000" expanded="true" signature="19883:20073" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="20079:20308" ph="///Creates a combo chart. ... " />
+            <marker date="1502578609000" expanded="true" signature="20580:20761" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="20767:20996" ph="///Creates a gauge chart. ... " />
+            <marker date="1502578609000" expanded="true" signature="21219:21758" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="21764:21991" ph="///Creates a geo chart. ... " />
+            <marker date="1502578609000" expanded="true" signature="22212:22743" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="22749:22976" ph="///Creates a geo chart. ... " />
+            <marker date="1502578609000" expanded="true" signature="23226:23791" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="23797:24030" ph="///Creates a histogram chart. ... " />
+            <marker date="1502578609000" expanded="true" signature="24257:24812" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="24818:25046" ph="///Creates a line chart. ... " />
+            <marker date="1502578609000" expanded="true" signature="25253:25349" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="25355:25583" ph="///Creates a line chart. ... " />
+            <marker date="1502578609000" expanded="true" signature="25826:26324" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="26330:26558" ph="///Creates a line chart. ... " />
+            <marker date="1502578609000" expanded="true" signature="26829:27015" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="27021:27248" ph="///Creates a map chart. ... " />
+            <marker date="1502578609000" expanded="true" signature="27448:28016" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="28022:28249" ph="///Creates a map chart. ... " />
+            <marker date="1502578609000" expanded="true" signature="28457:29096" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="29102:29329" ph="///Creates a pie chart. ... " />
+            <marker date="1502578609000" expanded="true" signature="29550:30081" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="30087:30319" ph="///Creates a sankey diagram. ... " />
+            <marker date="1502578609000" expanded="true" signature="30551:31158" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="31164:31395" ph="///Creates a scatter chart. ... " />
+            <marker date="1502578609000" expanded="true" signature="31605:31704" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="31710:31941" ph="///Creates a scatter chart. ... " />
+            <marker date="1502578609000" expanded="true" signature="32187:32697" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="32703:32934" ph="///Creates a scatter chart. ... " />
+            <marker date="1502578609000" expanded="true" signature="33208:33400" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="33406:33642" ph="///Creates a stepped area chart. ... " />
+            <marker date="1502578609000" expanded="true" signature="33892:34418" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="34424:34660" ph="///Creates a stepped area chart. ... " />
+            <marker date="1502578609000" expanded="true" signature="34938:35138" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="35144:35373" ph="///Creates a table chart. ... " />
+            <marker date="1502578609000" expanded="true" signature="35617:36119" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="36125:36354" ph="///Creates a table chart. ... " />
+            <marker date="1502578609000" expanded="true" signature="36626:36814" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="36820:37052" ph="///Creates a timeline chart. ... " />
+            <marker date="1502578609000" expanded="true" signature="37307:37885" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="37891:38123" ph="///Creates a timeline chart. ... " />
+            <marker date="1502578609000" expanded="true" signature="38386:39035" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="39041:39272" ph="///Creates a treemap chart. ... " />
+            <marker date="1502578609000" expanded="true" signature="39505:40116" ph="{...}" />
+            <marker date="1502578609000" expanded="true" signature="40122:40353" ph="///Creates a treemap chart. ... " />
+            <marker date="1502578609000" expanded="true" signature="40615:41260" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorial.fsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FFB99659-FC1C-47FA-A4D5-F883014D08AA/fb/fd529bad/Math.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="201" column="32" lean-forward="false" selection-start-line="201" selection-start-column="32" selection-end-line="201" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Develop.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="46" column="83" lean-forward="false" selection-start-line="46" selection-start-column="83" selection-end-line="46" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
